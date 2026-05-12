@@ -1,112 +1,129 @@
-## Hi there 👋
+# 🚀 Modern GitHub Profile README
 
-<!--
-**jasmeen007gajipara/jasmeen007gajipara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```md
+<div align="center">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm Jasmeen Gajipara 👋
 
-## About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Python+Developer;Data+Analysis+Enthusiast;AI+%26+Machine+Learning+Learner;Open+Source+Contributor" />
 
-I am a passionate IT student and aspiring Software Developer with a strong interest in Python programming, Data Analysis, and Artificial Intelligence. I enjoy building practical projects, solving real-world problems, and continuously learning new technologies.
-
-🎓 Currently studying Information Technology in Melbourne, Australia  
-💻 Experienced in Python, OOP, SQL, Pandas, and Data Visualization  
-📊 Interested in Data Analysis, Machine Learning, and Software Development  
-🚀 Passionate about building real-world projects and improving coding skills  
-🌏 Open to internships, collaborations, and learning opportunities  
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies
+# 💫 About Me
 
-### Programming Languages
-- Python
-- SQL
-- HTML
-- CSS
-
-### Libraries & Tools
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
-- Git & GitHub
-
-### Concepts
-- Object-Oriented Programming (OOP)
-- Data Cleaning
-- Data Visualization
-- Regression Modeling
-- File Handling
+💻 Passionate about Python, Data Analysis, and Software Development  
+🎓 IT Student based in Melbourne, Australia  
+📊 Interested in Machine Learning & Data Science  
+🚀 Building practical real-world projects  
+🌱 Currently learning AI, Deep Learning, and Advanced Python  
+🤝 Open to collaboration and internship opportunities  
 
 ---
 
-## 📂 Featured Projects
+# 🛠️ Tech Stack
 
-### 📚 Library Rental System
-A complete Python object-oriented project with:
-- Customer & Membership management
-- Book rental tracking
-- Reward point system
-- File handling and records management
+<div align="center">
 
-### 📊 Hotel Booking Data Analysis
-Exploratory data analysis project using:
-- Pandas
-- Visualization techniques
-- Statistical insights
-- Data preprocessing
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🫒 Olive Oil Regression Modeling
-Machine learning project focused on:
-- Data cleaning
-- Regression analysis
-- Predictive modeling
-- Data visualization
+</div>
 
 ---
 
-## 🌱 Currently Learning
+# 📂 Featured Projects
 
-- Machine Learning
-- Deep Learning
-- Advanced Python
-- Data Science
-- GitHub Project Management
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+## 📚 Library Rental System
+🔹 Python object-oriented programming project  
+🔹 Membership system with rewards and rentals  
+🔹 File handling and record management  
 
 ---
 
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Let's Connect
-
-📧 Email: your-email@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/  
-🌐 Portfolio: https://yourportfolio.com  
+## 📊 Hotel Booking Data Analysis
+🔹 Exploratory data analysis using Pandas  
+🔹 Data visualization and preprocessing  
+🔹 Statistical insights from booking patterns  
 
 ---
 
-## ⚡ Fun Fact
+## 🫒 Olive Oil Regression Modeling
+🔹 Regression analysis project  
+🔹 Machine learning concepts  
+🔹 Data cleaning and visualization  
 
-I enjoy learning new technologies, building projects, and turning ideas into practical solutions.
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+✨ I enjoy transforming ideas into real-world software projects.
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+</div>
+```
+
+## How to Use
+
+1. Create a GitHub repository with your GitHub username.
+2. Open the `README.md` file.
+3. Copy and paste the template above.
+4. Replace:
+
+   * `YOUR_USERNAME`
+   * `YOUR_LINKEDIN
