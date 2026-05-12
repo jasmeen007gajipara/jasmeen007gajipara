@@ -1,60 +1,54 @@
 <div align="center">
 
-# 👋 Hi, I'm Jasmeen!
-### Master of Data Science Student | Aspiring Data Analyst
+# 👋 Hi, I'm Jasmeen Jaysukhbhai
+### Master of Data Science Candidate | RMIT University 🎓
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-
----
-
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📖 Summary
+I am a **Master of Data Science student** currently in my third semester at RMIT. My passion lies in extracting actionable insights from complex datasets and building scalable machine learning models. With a background that bridges technical data analysis and cloud architecture, I focus on creating efficient, data-driven solutions.
 
-### 📚 [Library Rental System](https://github.com/YOUR_USERNAME/link-to-repo)
-> *A Python-based application for managing memberships and inventory.*
-*   **Key Features:** Reward-based membership system, automated record management.
-*   **Tech:** Python (OOP), File I/O.
-
-### 📊 [Hotel Booking Data Analysis](https://github.com/YOUR_USERNAME/link-to-repo)
-> *End-to-end Exploratory Data Analysis (EDA) on hospitality datasets.*
-*   **Key Features:** Preprocessing raw booking data and identifying seasonal pattern trends.
-*   **Tech:** Pandas, Matplotlib, Seaborn.
-
-### 🫒 [Olive Oil Regression Modeling](https://github.com/YOUR_USERNAME/link-to-repo)
-> *Predictive modeling using machine learning to analyze olive oil composition.*
-*   **Key Features:** Feature engineering, data cleaning, and regression performance metrics.
-*   **Tech:** Scikit-Learn, NumPy, Python.
+*   🔭 **Currently working on:** Advanced classification models and EDA projects.
+*   ☁️ **Cloud Focus:** Utilizing AWS Academy for scalable computing labs.
+*   📊 **Technical Goal:** Bridging the gap between raw data and business intelligence.
 
 ---
 
-## 📈 GitHub Statistics
+## 🛠️ Technical Toolbox
+
+### 🧪 Data Science & Analysis
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</div>
 
-### 🔥 Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+| **My Stats** | **Most Used Languages** |
+| :---: | :---: |
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" /> |
+
 </div>
 
 ---
 
-## ⚡ Fun Fact
-✨ I love finding the "why" behind the numbers—whether it's optimizing a database or brewing the perfect cup of coffee.
+## ⚡ Skills at a Glance
+*   **Analytical:** K-means clustering, Regression modeling, and Big O analysis.
+*   **Professional:** Inventory management, attention to detail, and quick learning.
+*   **Creative:** Exploring the intersection of data and the textile industry.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
