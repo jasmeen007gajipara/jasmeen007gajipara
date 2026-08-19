@@ -37,9 +37,10 @@ I am a **Master of Data Science student** currently in my third semester at RMIT
 
 <div align="center">
 
-| **My Stats** | **Most Used Languages** |
+
+| My Stats | Most Used Languages |
 | :---: | :---: |
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasmeen007gajipara&show_icons=true&theme=tokyonight" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmeen007gajipara&layout=compact&theme=tokyonight" /> |
+| <img src="https://vercel.app" /> | <img src="https://vercel.app" /> |
 
 </div>
 
