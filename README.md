@@ -35,9 +35,13 @@ I am a **Master of Data Science student** currently in my third semester at RMIT
 
 ## 📊 GitHub Analytics
 
-| My Stats | Most Used Languages | Current Commit Streak |
-| :---: | :---: | :---: |
-| <img src="https://vercel.app" height="195" /> | <img src="https://vercel.app" height="195" /> | <img src="https://herokuapp.com" height="195" /> |
+| My Stats & Trophies | Current Activity Graph |
+| :---: | :---: |
+| <img src="https://vercel.app" height="180" /> | <img src="https://vercel.app" height="180" /> |
+
+### 🛠️ Languages & Tech Stack
+![Top Languages](https://shields.io)
+
 
 ---
 
