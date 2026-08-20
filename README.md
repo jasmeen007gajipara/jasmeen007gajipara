@@ -37,8 +37,7 @@ I am a **Master of Data Science student** currently in my third semester at RMIT
 
 | My Stats | Most Used Languages |
 | :---: | :---: |
-| <img src="https://vercel.app" /> | <img src="https://vercel.app" /> |
-
+| <img src="https://vercel.app" width="400" /> | <img src="https://vercel.app" width="400" /> |
 
 ---
 
