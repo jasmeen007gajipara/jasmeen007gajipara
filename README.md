@@ -33,8 +33,6 @@ I am a **Master of Data Science student** currently in my third semester at RMIT
 
 ---
 
-## 📊 GitHub Analytics
-
 | My Stats | Most Used Languages | Current Commit Streak |
 | jasmeen007gajipara | jasmeen007gajipara | jasmeen007gajipara |
 | <img src="https://vercel.app" height="195" /> | <img src="https://vercel.app" height="195" /> | <img src="https://herokuapp.com" height="195" /> |
