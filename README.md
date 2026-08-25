@@ -35,6 +35,8 @@ I am a **Master of Data Science student** currently in my 4th semester at RMIT. 
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 | 📈 Account Metrics | ⚡ Code Contributions |
 | :---: | :---: |
 | <img src="https://vercel.app" height="180" alt="GitHub Stats" /> | <img src="https://herokuapp.com" height="180" alt="Streak Stats" /> |
@@ -43,6 +45,7 @@ I am a **Master of Data Science student** currently in my 4th semester at RMIT. 
 <p align="center">
   <img src="https://vercel.app" alt="Top Languages" />
 </p>
+
 
 ---
 
