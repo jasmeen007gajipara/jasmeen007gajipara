@@ -37,11 +37,12 @@ I am a **Master of Data Science student** currently in my third semester at RMIT
 
 | My Stats & Trophies | Current Activity Graph |
 | :---: | :---: |
-| <img src="https://vercel.app" height="180" /> | <img src="https://vercel.app" height="180" /> |
+| <img src="https://vercel.app" height="180" alt="GitHub Stats" /> | <img src="https://vercel.app" height="180" alt="Activity Graph" /> |
 
 ### 🛠️ Languages & Tech Stack
-![Top Languages](https://shields.io)
-
+<p align="center">
+  <img src="https://vercel.app" alt="Top Languages" />
+</p>
 
 ---
 
