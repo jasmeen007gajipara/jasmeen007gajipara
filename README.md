@@ -35,15 +35,14 @@ I am a **Master of Data Science student** currently in my 4th semester at RMIT. 
 
 ## 📊 GitHub Analytics
 
-| My Stats & Trophies | Current Activity Graph |
+| 📈 Account Metrics | ⚡ Code Contributions |
 | :---: | :---: |
-| <img src="https://vercel.app" height="180" alt="GitHub Stats" /> | <img src="https://vercel.app" height="180" alt="Activity Graph" /> |
+| <img src="https://vercel.app" height="180" alt="GitHub Stats" /> | <img src="https://herokuapp.com" height="180" alt="Streak Stats" /> |
 
 ### 🛠️ Languages & Tech Stack
 <p align="center">
   <img src="https://vercel.app" alt="Top Languages" />
 </p>
-
 ---
 
 ## ⚡ Skills at a Glance
