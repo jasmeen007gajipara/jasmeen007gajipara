@@ -11,7 +11,7 @@
 ---
 
 ## 📖 Summary
-I am a **Master of Data Science student** currently in my third semester at RMIT. My passion lies in extracting actionable insights from complex datasets and building scalable machine learning models. With a background that bridges technical data analysis and cloud architecture, I focus on creating efficient, data-driven solutions.
+I am a **Master of Data Science student** currently in my 4th semester at RMIT. My passion lies in extracting actionable insights from complex datasets and building scalable machine learning models. With a background that bridges technical data analysis and cloud architecture, I focus on creating efficient, data-driven solutions.
 
 *   🔭 **Currently working on:** Advanced classification models and EDA projects.
 *   ☁️ **Cloud Focus:** Utilizing AWS Academy for scalable computing labs.
