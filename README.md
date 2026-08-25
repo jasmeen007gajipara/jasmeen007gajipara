@@ -54,6 +54,7 @@ I am a **Master of Data Science student** currently in my 4th semester at RMIT. 
 *   **Professional:** Inventory management, attention to detail, and quick learning.
 *   **Creative:** Exploring the intersection of data and the textile industry.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Jasmeen%20Gajipara&fontSize=40&animation=twinkling" alt="Jasmeen Profile Footer" />
+</p>
