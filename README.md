@@ -35,19 +35,15 @@ I am a **Master of Data Science student** currently in my 4th semester at RMIT. 
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
-## 📊 GitHub Analytics
-
-| 📈 Core Frameworks & Language | ⚡ Academic Track |
+| 📈 Account Metrics | ⚡ Code Contributions |
 | :---: | :---: |
-| ![Python](https://shields.io) | ![Education](https://shields.io) |
-| ![SQL](https://shields.io) | ![Status](https://shields.io) |
+| <img src="https://vercel.app" height="180" alt="GitHub Stats" /> | <img src="https://herokuapp.com" height="180" alt="Streak Stats" /> |
 
-### 📈 Contribution Activity Tracker
+### 🛠️ Languages & Tech Stack
 <p align="center">
-  <img src="https://herokuapp.com" alt="Streak Stats" />
+  <img src="https://vercel.app" alt="Top Languages" />
 </p>
+
 
 
 
